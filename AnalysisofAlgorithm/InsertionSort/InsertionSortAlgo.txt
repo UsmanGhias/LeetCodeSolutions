@@ -1,9 +1,0 @@
-// Insertion Sort 
-for j= 2 to A.length
-    key = A[j]
-    i = j-1
-    while i > 0 && i< A.length
-        A[i+1] = A[i]
-        i = i-1
-    return A[i+1] = key
-// Link for more study: https://courses.usmanghias.com/insertion-sort-156/
